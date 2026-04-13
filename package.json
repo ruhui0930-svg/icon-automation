@@ -1,0 +1,11 @@
+{
+  "name": "icon-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/gemini_generate.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

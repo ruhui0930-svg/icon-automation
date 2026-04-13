@@ -16,3 +16,6 @@ styles/references/
 # Python
 __pycache__/
 *.pyc
+.chrome-profile/
+node_modules/
+generated/_debug_*.png
